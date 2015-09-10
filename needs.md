@@ -4,7 +4,20 @@ title: Needs
 permalink: /needs/
 ---
 
-### Intro
+<ul id="mydiv" class="menu menu-fixed">
+  <li><a href="#intro">Intro</a></li>
+  <li><a href="#user-centered">User-Centered</a></li>
+  <li><a href="#508-compliance">508-Compliance</a></li>
+  <li><a href="#responsive">Responsive</a></li>
+  <li><a href="#multilingual">Multilingual</a></li>
+  <li><a href="#improved-search">Improved Search</a></li>
+  <li><a href="#content-strategy">Content Strategy</a></li>
+  <li><a href="#website-transparency">Website Transparency</a></li>
+  <li><a href="#feedback-loop">Feedback Loop</a></li>
+  <li><a href="#shareability">Shareability</a></li>
+</ul>
+
+### <a name="intro"></a>Intro
 
 *The website is not suiting the agency or client needs. What can we do to fix it?*
 
@@ -13,7 +26,7 @@ A number of steps can be taken immediately to improve HSA’s engagement with th
 ---
 
 
-### User-Centered
+### <a name="user-centered"></a>User-Centered
 
 Websites that work best take into account the preferences, knowledge and limitations of its users. They support making navigation and completing tasks or transactions quickly and easily. A main user group of the HSA public facing website are clients and potential clients. 
 
