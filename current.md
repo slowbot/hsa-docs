@@ -1,50 +1,50 @@
 ---
 layout: page
-title: Current
+title: Current Landscape
 permalink: /current/
 ---
 
-### Intro
+<ul id="mydiv" class="menu menu-fixed">
+  <li><a href="#intro">Intro</a></li>
+  <li><a href="#our-process">Our Process</a></li>
+  <li><a href="#current-landscape">Current Landscape</a></li>
+  <li><a href="#needs">Needs</a></li>
+  <li><a href="#pain-points">Pain Points</a></li>
+</ul>
 
-*"The website is not utilized the way it should be for us. We just haven’t paid attention to the design of it. We haven’t focused on who we’re trying to reach, serving, the people in communities or even staff. I think we haven’t looked at essentials for the website serving people: accessibility, font, color, all of those elements you need for those populations we serve." *- DAAS Executive Leadership
 
- 
+## <a name="intro"></a>Intro
+
+> "The website is not utilized the way it should be for us. We just haven’t paid attention to the design of it. We haven’t focused on who we’re trying to reach, serving, the people in communities or even staff. I think we haven’t looked at essentials for the website serving people: accessibility, font, color, all of those elements you need for those populations we serve." 
+
+*- DAAS Executive Leadership*
 
 The San Francisco Human Services Agency (HSA) is a lifeline for 23% of San Franciscans, serving over 200,000 unique persons seeking food assistance, health care, elder care, job training, daycare, and other essential social services. Sfhsa.org serves as the proverbial *front door* to the agency with more than 30,000 unique visits to the website each month. The public facing website has the potential to provide information and services in a clear, helpful, effective way with the utmost dignity and respect for client experience. 
 
 * * *
 
 
-**OUR PROCESS**
+## <a name="our-process"></a>Our Process
 
 We’ve talked to HSA representatives from The Department of Aging and Adult Services (DAAS), The Office of Early Care and Education (OECE), and The Department of Human Services (DHS), including the Information Technology Department (IT), Family and Children's Services (FCS),  Internal Affairs, and Executive Leadership. We’ve engaged HSA clients and Community Based Organizations (CBOs). The overwhelming response to the current website has been: 
 
 *"The website is not suiting the agency or client needs. What can we do to fix it?"*
 
- 
-
 We’ve heard honest criticism from each of the above stakeholders. "*The website is dated." “The content is all over the place.” “Nobody takes responsibility.” “It’s impossible to navigate.”* Our research dug deep within the agency, analyzing the website traffic data and holding community forums at the San Francisco Public Library and at a local CBO (Arriba Juntos). We conducted comparative analysis of public agencies in the city, county, state, and beyond. Our process uncovered ideas about a future HSA website that has the potential to be an exemplar amongst public services agencies.  These findings were the foundation for the document *HSA Recommendations.*
-
- 
 
 * * *
 
-
-**CURRENT LANDSCAPE**
+## <a name="current-landscape"></a>Current Landscape
 
 HSA has two distinct Departments, The Department of Human Services (DHS) and The Department of Aging and Adult Services (DAAS), and the Office of Early Care and Education (OECE). The two Departments serve specific client populations with discrete needs. OECE’s clients may overlap with the two Departments. HSA’s public-facing website, sfhsa.org, is a funnel for all clients to find information. Beyond information, few, if any, services are provided through the website; however, links to services exist, including MyBenefits CalWIN.
 
-**GOALS AND OBJECTIVES**
+### GOALS AND OBJECTIVES
 
 HSA’s mission is to promote well-being and self-sufficiency among individuals, families and communities in San Francisco. Information and services need to be available through clear and helpful channels in order to achieve this mission. The public-facing website is an important yet underdeveloped channel.
 
- 
-
-**WHY IT MATTERS**
+### WHY IT MATTERS
 
 HSA clients are as diverse as the city itself. Website accessibility is essential to accommodate this diversity. By understanding clients’ goals, challenges and needs, a streamlined client experience needs to be created. This better facilitates the agency’s goals and objectives. 
-
- 
 
 **DHS & OECE CHALLENGES**
 
@@ -56,8 +56,6 @@ Engaging new clients that may need information or services provided by HSA.
 
 Missed opportunities in serving at-risk clients in need of services.
 
- 
-
 **In-Reach:**
 
 Current HSA clients are eligible for other services, but may not be aware of the options or if they qualify for them.
@@ -66,19 +64,13 @@ Current HSA clients are eligible for other services, but may not be aware of the
 
 Clients already in the system become aware of additional resources and services that may benefit them.
 
- 
-
 **Churn:**
 
 Clients are receiving services, but are dropped and then return for services.
 
- 
-
 **Why It Matters:**
 
 Human or technical error should not result in a client going without services.
-
- 
 
 **In-take:**
 
@@ -88,11 +80,7 @@ Clients often seek face-to-face time or call to ask questions and understand the
 
 HSA staffing resources are limited and an informative website can eliminate unnecessary time spent answering phone calls, emails, and reducing foot traffic to lobbies.
 
- 
-
 **DAAS CHALLENGES ALSO SHARED WITH DHS & OECE**
-
- 
 
 **Not Meeting Government Mandates:**
 
@@ -110,8 +98,6 @@ Reaching clients who are older or disabled or lower-income who may not have comp
 
 Sfhsa.org could be a quick resource about services and lead to clients spending less time and frustration trying to access information face-to-face, over the phone, and by mail. Further, the information they receive online will be the same rather than learning disparate or incomplete information from different staff.
 
- 
-
 **Digital Readiness:**
 
 Reaching clients who are older or disabled or lower-income who may not be computer or reading literate or familiar with technology tools.
@@ -125,7 +111,7 @@ Clients who are digitally literate can utilize online components of service offe
 * * *
 
 
-**NEEDS**
+## <a name="needs"></a>Needs
 
 In order to fulfill HSA’s mission, the public facing website needs to be proactive with its accessibility. This includes, but is not limited to: multilingual language needs, content creation based on an audience appropriate literacy level, considerations of access to digital technology and tools (eg: mobile), digital literacy and familiarity with technology tools, and Section 508 compliance. 
 
@@ -229,7 +215,7 @@ At a community forum held at the San Francisco Public Library, 12 representative
  * * *
 
 
-**PAIN-POINTS**
+## <a name="pain-points"></a>Pain Points
 
 **No Dedicated Website Owner**
 
