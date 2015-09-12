@@ -1,8 +1,21 @@
 ---
 layout: page
-title: Needs
+title: Immediate Website Needs 
 permalink: /needs/
 ---
+
+<ul class="menu menu-mobile">
+  <li><a href="#intro">Intro</a></li>
+  <li><a href="#user-centered">User-Centered</a></li>
+  <li><a href="#508-compliance">508-Compliance</a></li>
+  <li><a href="#responsive">Responsive</a></li>
+  <li><a href="#multilingual">Multilingual</a></li>
+  <li><a href="#improved-search">Improved Search</a></li>
+  <li><a href="#content-strategy">Content Strategy</a></li>
+  <li><a href="#website-transparency">Website Transparency</a></li>
+  <li><a href="#feedback-loop">Feedback Loop</a></li>
+  <li><a href="#shareability">Shareability</a></li>
+</ul>
 
 <ul id="mydiv" class="menu menu-fixed">
   <li><a href="#intro">Intro</a></li>
@@ -17,7 +30,7 @@ permalink: /needs/
   <li><a href="#shareability">Shareability</a></li>
 </ul>
 
-### <a name="intro"></a>Intro
+## <a name="intro"></a>Intro
 
 *The website is not suiting the agency or client needs. What can we do to fix it?*
 
@@ -26,14 +39,14 @@ A number of steps can be taken immediately to improve HSA’s engagement with th
 ---
 
 
-### <a name="user-centered"></a>User-Centered
+## <a name="user-centered"></a>User-Centered
 
 Websites that work best take into account the preferences, knowledge and limitations of its users. They support making navigation and completing tasks or transactions quickly and easily. A main user group of the HSA public facing website are clients and potential clients. 
 
 Conversation with SF HSA staff reveals acknowledgement of the need for a user-centered approach to serving clients. As one HSA Program Leader put it: 
 “(The website is) really dense with information and text, not easy to navigate from the client perspective.”
 
-#### Why It Matters:
+### Why It Matters:
 
 > “Website does not offer shortcuts to problems.” 
 —HSA client comment during a community forum
@@ -41,7 +54,7 @@ Conversation with SF HSA staff reveals acknowledgement of the need for a user-ce
 Client goals for using the website include: accessing information, applying for services and communicating with HSA employees. Specific tasks depend upon which service or services a client is engaging and may include; qualifying for services, receiving and staying eligible for services or getting off of services.
 
 
-#### How to Fix It:
+### How to Fix It:
 
 * Create clear navigation that priorities what people are looking for on sfhsa.org. 
 Suggested during a client forum was including online, “a directory of valuable resources that we need, add maps and contacts: easy accessibility.” Another suggestion was for the website to “explain exactly changes to benefits or what is missing.” 
@@ -55,18 +68,18 @@ One person representing a community based organization “It wouldn’t take too
 ---
 
 
-### 508-Compliance
+## <a name="508-compliance"></a>508-Compliance
 
 We work with a community technology network with seniors and people with disabilities... they do often want access to our site and they just created their own because they couldn't get access to our site.
 —HSA DAAS Program Leadership 
 
 508-Compliance is the legal requirement to make technology accessible to people with disabilities and aligns with the mission of the Human Services Agency to promote well-being and self-sufficiency among people in San Francisco. A main accessibility issue is accommodating for the needs of people with impaired vision. 
 
-#### Why It Matters:
+### Why It Matters:
 
 Assistive technology like text-to-speech software allow people who are visually impaired to read a website as row and rows of text. This works well when just reading words but it can cause problems when the software comes across an image. If images on the site is not labeled with a proper description or if the site contains hidden elements like access keys that conflict with the assistive software it can be hard for the site to be easily read by the visually impaired. Additionally, adding the ability for a user to change the size of the text makes it easier for people who have trouble reading smaller type to view information on your page. 
 
-#### How to Fix It:
+### How to Fix It:
 
 * Add an alt attribute to the image that is succinct, yet equivalent alternative to the content and function of the image. 
 
@@ -77,13 +90,13 @@ Assistive technology like text-to-speech software allow people who are visually 
 ---
 
 
-### Responsive
+## <a name="responsive"></a>Responsive
 
 A website is responsive when it adapts to the digital platform (desktop, mobile, tablet) that people are using to access the internet including mobile phones and tablets. This allows for optimal viewing and a user friendly interaction experience, including easy reading and navigation with minimum of resizing, panning, and scrolling. 
 
 Three of the four Human Service Agency websites we compared regionally (Santa Clara, Ventura, Riverside, San Bernardino) are accessible on mobile platforms allowing their clients access important information about getting help at their fingertips. 
 
-#### Why this Matters
+### Why this Matters
 
 45% of people trying to access SFHSA.org are doing so through mobile and tablet devices. (data from August 1st, 2014 - August 1st, 2015)
 
@@ -101,7 +114,7 @@ mobile and tablet usage (data) (L) see link to Efficacy
 
 HSA employees in the field could also benefit from an improved website on mobile devices. There are mobile versions already available for some HSA systems  (e.g. panoramic).  Family and Children’s Services staff see a future on mobile where they would be able to access information about clients, get signatures from clients, have Departmental protocols on hand and reduce the amount of time spent printing and do paperwork from the office. As one HSA Program Leader told us, “to be mobile with laptops and smartphones, less commuting to the office–that’s 4 hours wasted time–that could be more time spent with client in the field.”
 
-#### How to Fix It
+### How to Fix It
 
 *  Develop new site design that is responsive regardless of device being used to access the site.
 
@@ -109,15 +122,16 @@ HSA employees in the field could also benefit from an improved website on mobile
 
 ---
 
-### Multilingual
+## <a name="multilingual"></a>Multilingual
 
 The demographics of clients who are eligible for services in San Francisco have been changing over the last decade to include greater number of clients for whom English is their second language.
 
-####  Why it Matters
+###  Why it Matters
 
 Making content, applications and communication available in multiple languages is an important for making services accessible for clients. When asked how the HSA might better help clients using the website to apply for, receive and maintain services, one third of HSA clients said they would like to choose their own language. There is a misperception with clients that access to services is in uneven in favor of English speakers. We heard this during a client community forum: ”I need to talk to a real person in CHINESE. It takes long time for my language support. I think the English line is faster.”
 
-####  How to Fix It
+###  How to Fix It
+
 *  Enable website content to be easily read in different languages through a language translation plugin or by developing content for the cities most spoken languages.
 
 *  San Bernardino, Riverside and New York City are making their websites language accessible by allowing all content on a website to be switched to a user’s prefered language using Google translate.
@@ -126,7 +140,7 @@ Making content, applications and communication available in multiple languages i
 
 ---
 
-### Improved Search 
+## <a name="improved-search"></a>Improved Search 
 
 > “Website does not offer shortcuts to problems”—Client feedback during community forum
 
@@ -134,7 +148,7 @@ The most important function of any website is for a visitor to be able to find i
 
 We’ve heard from clients, CBO’s and HSA employees, as well as, experienced first hand how difficult it is to search for information on the HSA website. People who don’t know about the HSA need to be able to locate the website and HSA programs through search engines like Google or yahoo.
  
-####  What this means
+###  What this means
 
 * **Top 10 things being searched for on sfhsa.org (July, 2105)**
 The top search was for "IHSS" and the organization shows up twice in top ten. “calfresh” is second highest search with food stamps also showing up twice within the top ten. “Help for homeless families” #3 shows up 3 time in top ten in different queries. “General assistance”  was number 9 out of the top 10 searches. 
@@ -170,7 +184,7 @@ Off-page Optimization refers to factors that have an effect on a Web site or Web
 
 ---
 
-###  Google has indexed over 130 pages that can’t be found 
+### Google has indexed over 130 pages that can’t be found 
 (SFHSA.org August 1st, 2014 - August 1st, 2015)
 
 #### Why it Matters:
@@ -183,7 +197,7 @@ Off-page Optimization refers to factors that have an effect on a Web site or Web
 
 ---
 
-###  On-page code and site resources not optimized for search engine ranking
+### On-page code and site resources not optimized for search engine ranking
 (data from August 1st, 2014 - August 1st, 2015)
 
 #### Why it Matters:
@@ -247,100 +261,104 @@ open source built by CfA Fellows
 
 ---
 
-### Content Strategy
+## <a name="content-strategy"></a>Content Strategy
+
 Content Strategy is the principle of systematically organizing all elements of the website, including the body copy, images, links, media and more. It ensures that content is consistent in voice and tone to reflect the overall mission of the agency. It is relevant, up-to-date and considers users literacy level and culture. Content should be organized in a way that is searchable and accessible. Providing good governance is essential in maintenance and sustainability. A clear content strategy may also engage with the public through social media.
 
-A Successful Content Strategy is:
-Relevant
-Organise information so that it speaks to user needs:
-Delivers on what users are coming to the website for
-Is accessible how users want to engage with content
-Helps the user make informed choices
-Current
-Regularly update content on the website and label each page by date it was updated 
-Allows users to trust the website content as an accurate source of information
-Becomes the authoritative shared resource that clients, CBOs and HSA employees use for information
-Makes use of social media to communicate important updates
-Considerate of literacy level
-Reading level 
-Digital readiness
-Consistent 
-Multiple content authors create content with one voice for a consistent experience for the user from page to page 
-staff within the agency know who is responsible for developing, and publishing content and who is responsible for maintaining the site. 
+**A Successful Content Strategy is:**
 
-Why it Matters
+* Relevant
+* Organise information so that it speaks to user needs:
+* Delivers on what users are coming to the website for
+* Is accessible how users want to engage with content
+* Helps the user make informed choices
+* Current
+* Regularly update content on the website and label each page by * date it was updated 
+* Allows users to trust the website content as an accurate source of information
+* Becomes the authoritative shared resource that clients, CBOs and HSA employees use for information
+* Makes use of social media to communicate important updates
+* Considerate of literacy level
+* Reading level 
+* Digital readiness
+* Consistent 
+* Multiple content authors create content with one voice for a consistent experience for the user from page to page 
+* staff within the agency know who is responsible for developing, and publishing content and who is responsible for maintaining the site. 
+
+### Why it Matters
 
 Content strategy makes communication clear, expected and consistent. A content strategy makes it easy to develop and update content, a streamlined workflow that spells out who is responsible for creating content and where and how a user interacts with the content. Good governance is essential in the sustainability and management of content creation.
 
-How to Fix It
+### How to Fix It
 
-Develop a Content Strategy Guide that is the source for how content is shaped for communicating with the public through the website and social media. 
-The guide should be textbook for staff tutorials for developing content and a a quick resource guide for all HSA staff to confirm their content meets HSA standards.
-Explain social media etiquette and protocols outlining acceptable posting behavior. Address who is responsible for social media posting, monitoring and communicating with the public through authorized platforms.
-Outline responsibility of content approval and publishing process to establish ownership so that content conforms to the guide and the publishing schedule adhered.
+* Develop a Content Strategy Guide that is the source for how content is shaped for communicating with the public through the website and social media. 
+* The guide should be textbook for staff tutorials for developing content and a a quick resource guide for all HSA staff to confirm their content meets HSA standards.
+* Explain social media etiquette and protocols outlining acceptable posting behavior. Address who is responsible for social media posting, monitoring and communicating with the public through authorized platforms.
+* Outline responsibility of content approval and publishing process to establish ownership so that content conforms to the guide and the publishing schedule adhered.
 
 See “Further Reading” section at the bottom of the Content Strategy first draft for comparative research and guidelines
 
-Content Strategy guidelines:
-content creation  (source)
-Content development
-Editorial strategy for types of content
-Content voice or style
-Content management strategy
-publishing 
-content authors
-content deadlines 
-maintainance
-Structuring content (source)
-Metadata 
-Search engine optimization 
-Content channel distribution
-Examples of content strategy:
-Hawaii Content Style Guide
-Philly Content Style Guide
-Oakland Answers Content Style Guide 
+**Content Strategy guidelines:**
 
+* content creation  (source)
+* Content development
+* Editorial strategy for types of content
+* Content voice or style
+* Content management strategy
+* publishing 
+* content authors
+* content deadlines 
+* maintainance
+* Structuring content (source)
+* Metadata 
+* Search engine optimization 
+* Content channel distribution
+* Examples of content strategy:
+* Hawaii Content Style Guide
+* Philly Content Style Guide
+* Oakland Answers Content Style Guide 
 
+---
 
-Website Transparency
-“We are all doing different things for the same people and they don’t know to go to a different site and that’s a shame.” 
+## <a name="website-transparency"></a>Website Transparency
+
+> “We are all doing different things for the same people and they don’t know to go to a different site and that’s a shame.” 
 —Community Based Organization 
 
-“People are mistrustful of the system, for lots of good reasons actually, it would be nice if we could be transparent with them.”
+> “People are mistrustful of the system, for lots of good reasons actually, it would be nice if we could be transparent with them.”
 —HSA Program Leadership
 
-“It’s a complex system because of requirements. The way that families are moved through the system, it’s hard for them to understand.” 
+> “It’s a complex system because of requirements. The way that families are moved through the system, it’s hard for them to understand.” 
 —HSA Program Leadership
 
 Transparency sets expectations for who is responsible for what, knowing when things will happen, what part of the process a client is currently in and what the nexts steps are. By making the overall process of engaging with the SF HSA visible, users know what to expect at each step along the way to services. 
 
 The experience and process of using the HSA website should be clear and easy to navigate. Community forums with HSA Clients and Community Based Organizations (CBOs) reflect how transparency would improve their experience. This need is articulated by a client who shared how HSA could be improved with a website that has “Clarity on next steps from being a user of services.”
 
-Why It Matters:
+### Why It Matters:
+
 Transparency creates clarity on the process and trust with the agency by making it clear what part of the process clients are currently in, what happens next, what each party is responsible for getting to the next step.
 In two forums held with current clients of HSA services there was feedback saying that the experience of engaging with the HSA on the public facing website would be improved if the website was able to “allow you to make changes to your case via the website” and “show the information and explain exactly changes to benefits or what is missing.”
 Clients also had a hard time using the website and felt that “HSA should add a tech support service group, showing clients how to use these services online!”
 
-How to Fix It:
+###  How to Fix It:
+
 Clearly Showing the User Journey* 
 
 Creating a user journey maps how services work, who is involved and what happens when. A User Journey takes place over a series of steps which may include: Awareness of a service; Accessing a service or being enrolled; Receiving services; Maintaining, Reapplying or Repeating service and Exiting. These steps may take place through the online, in person, over the phone, via mail or a combination of a number of these.
 
-
 *note: the user journey of a service may in-part be distinctly for different types of programs. For example: the process of reporting child abuse versus applying for food assistance; not focusing on eligibility.
 
-Examples
-Client Journey Map from SF Dept of Tech’s Homeless Navigation Center (HNC) workshop / full report pdf 
-NYC infographic
-SF Business Portal
+**Examples
+* Client Journey Map from SF Dept of Tech’s Homeless Navigation Center (HNC) workshop / full report pdf 
+* NYC infographic
+* SF Business Portal
 http://businessportal.sfgov.org/
  Create a Business Plan Step by Step
 http://businessportal.sfgov.org/start/finance-your-business
-Visibility into where you are at in the process
-Provide context based on where users are in the process
-Give options to help make the right choices.
-Connect users/customers to resources along the journey
-Visibility on when your request will be processed
+* Provide context based on where users are in the process
+* Give options to help make the right choices.
+* Connect users/customers to resources along the journey
+* Visibility on when your request will be processed
 
 Tutorials
 Step-by-step tutorials are another option in increasing client engagement and transparency. By detailing the process, clients are able to understand the steps and  better prepare for when problems might arise. 
@@ -350,22 +368,22 @@ Video tutorials on the HSA website with staff at their desks talking about their
 Ex. Santa Clara Social Services Agency website 
 video (here) showing how to apply for CalFresh ( English, Vietnamese)
 NYC 
+
 311 website 
 offers what to expect in the process, what information is needed, and what other programs you might be eligible for. 
 content written in plain language and an interface is clean and easy to navigate. 
 
+## <a name="feedback-loop"></a>Feedback Loop
 
-
-
-Feedback Loop
-“There has to be loopback...you want somes sense of—are (clients) opening your message?—that they are getting this information.” —HSA Program Leadership
+> “There has to be loopback...you want somes sense of—are (clients) opening your message?—that they are getting this information.” —HSA Program Leadership
 
 Channels for soliciting feedback can take place in different ways: as a survey after a visit to the HSA website, at the end of a communication with a client through phone or email, or while a client is searching for information on the website in a pop-up chat window. More passive feedback channels may show when a client has opened an email informing them of an update to their case or new policy information, web pages viewed frequently, or what people are searching for on sfhsa.org.
 
-website satisfaction (L)
+**website satisfaction (L)**
+
 The two question survey placed on sfhsa.org during July gave insight into how people were using the site and what they were trying to use the website to do. Direct quotes from people who were unable to find what they need through search, include: “Current issue of HSA InService Quarterly Newsletter. (Latest edition listed is Summer 2009)!,” and “I started application, but didn't finish it. I do(n)'t remember how reach that file,”  which speaks to a desire to use the website to access digital applications and locate current information. 
 
-Why it Matters
+### Why it Matters
 
 Feedback from users on the website and in other client interactions will allow the HSA to understand what information people are seeking, how they want to use the website and what they are struggling with. 
 
@@ -373,9 +391,9 @@ Feedback opportunities also give clients a platform to know their concerns are b
 
 A specific need for feedback that HSA Executive Leadership expressed was to understand client app usage, “EBT Locator is the only app for public facing, but barely used/no feedback really.”  
 
-How to Fix It
+### How to Fix It
 
-Helpfulness/Happiness Surveys
+** Helpfulness/Happiness Surveys
 Develop short surveys to track the helpfulness of an interaction with the HSA and how that experience made the user feel. This can be done online and over the phone with simple surveys asking people to rate their experience.
 
 Multiple Communication Channels
@@ -393,9 +411,10 @@ monitoring page views and search results on sfhsa.org on a regular basis will gi
 See Oakland’s, Digital Front Door Dashboard
 A concept being developed in Oakland for citizens  to see a live track of search terms, top pages and current traffic on the site to anonymously show how many people are seeking the city’s help through online means and what they are looking for. 
 
+---
 
+## <a name="shareability"></a>Shareability
 
-Shareability
 Sharing information enables HSA to foster dialogue within and outside the agency, allows processes to improve by learning what works best and building on it. Digital tools and practices for sharing allow multiple people to collaborate, access information together and improve communication inter-departmentally, with CBOs and clients, and between clients.
 
 Inter-departmental
@@ -425,25 +444,28 @@ Peer-to-peer information sharing and online resources through email or texting l
 Ventura County’s website allows you email, facebook, or tweet content via a menu that from their site appears when you rollover “+ share & bookmark”.
 
 
-Why it Matters
+### Why it Matters
 
 Sharing information and resources can help HSA staff do their jobs more effectively and efficiently; reduce churn with clients and make sure that staff, CBOs and Clients know the resources and programs available. As an HSA Program leader expressed, “I think there is a lot of work we are doing that people don't know about.”
 
-How to Fix It
+### How to Fix It
 
-Protocols/tools to reduce siloing by encourage collaboration.
+* Protocols/Tools to Reduce Siloing by Encouraging Collaboration.
 Internal HSA blog to encourage inter-departmental information sharing
 Collaboration software:
 Slack
-“FCS is piloting Yammer for internal communication within a small group
-Sharepoint is being used for some programs
-widgets and tools that can be added to the website 
-email link
-social messaging
-twitter
-facebook
-Enable social media sharing
-Set up verified social media profiles and encourage targeted use for sharing information and fielding questions
-Encourage client peer-to-peer information sharing and online resources through email or texting links
-see: Ventura County’s website with drop-down menu for emailing facebooking, or tweeting content
+FCS is piloting Yammer for internal communication within a small group.
+Sharepoint is available to certain HSA staff and can be used to organize and share information. 
+
+* Add Tools to the Website 
+Email links
+Social messaging
+Twitter
+Facebook
+
+* Enable Social Media Sharing
+Set up verified social media profiles and encourage targeted use for sharing information and fielding questions.
+
+* Encourage Client Peer-to-Peer Information Sharing and online resources through email or texting links
+Ventura County’s website has a drop-down menu for emailing facebooking, or tweeting content
 
