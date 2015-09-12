@@ -6,18 +6,18 @@ permalink: /efficacy/
 
 <ul id="mydiv" class="menu menu-fixed">
   <li><a href="#intro">Intro</a></li>
-  <li><a href="#our-process">Quantitative Metrics</a>
+  <li><a href="#quantitative-metrics">Quantitative Metrics</a>
     <ul>
-      <li><a href="#current-landscape">Current Website Usage Data</a></li>
+      <li><a href="#current-website-usage-data">Current Website Usage Data</a></li>
     </ul>  
   </li>
-  <li><a href="#needs">Qualitative Metrics</a></li>
+  <li><a href="#qualitative-metrics">Qualitative Metrics</a></li>
 </ul>
 
 
-**INTRODUCTION**
+## <a name="intro"></a>Intro
 
-**If effective, every webpage on sfhsa.org will be able to answer a problem someone is trying to solve. **
+**If effective, every webpage on sfhsa.org will be able to answer a problem someone is trying to solve.**
 
 An effective public facing website for the Agency should deliver information and services to diverse users on multiple digital platforms (mobile, desktop, tablets, etc.); consistently, quickly and easily. Clients, Community Based Organizations(CBOs) and HSA staff will be able to **find** up-to-date and reliable information; **communicate** with the Agency as needed, **complete** applications; and **share** information and updates through social media. 
 
@@ -25,18 +25,17 @@ A successful HSA digital presence creates benchmarks to know that it is meeting 
 
 To understand the efficacy of the current HSA website, we utilized a combination of quantitative and qualitative metrics. 
 
-**Quantitative Metrics: Data**
+## <a name="quantitative-metrics"></a>Quantitative Metrics: Data
 
 Data analysis conducted through Google Analytics revealed what people are using the sfhsa.org for and how successful they are while on the website. Other factors included: what pages people were accessing, how they were utilizing search, whether they were using a mobile device or a desktop computer and how many pages they visited. By using this data, the agency can set benchmarks to start planning for the future. 
 
-**C****urrent Website Usage**** Data**
+## <a name="current-website-usage-data"></a>Current Website Usage Data
 
 (metrics from July 2014–June 2015)
 
 **Only 10% of Users Enter the Website Through the Homepage **
 
-**
-  Why It Matters:**
+**Why It Matters:**
 
 Users are finding their way to many pages of the website (a good thing), but it puts an emphasis on ensuring website content is comprehensive and easy to access from any page.
 
@@ -92,7 +91,7 @@ Make it easier to find applicable content and encourage accessing multiple pages
 
 Determine certain website behavior as baseline metrics to create benchmarks for website improvements. For example, now that there is a metric for the bounce rate on sfhsa.org, it is possible to test improvements to the website’s navigation or search function to see how different  improvements lead to a reduction in the bounce rate.
 
-**Qualitative Metrics**
+## <a name="qualitative-metrics"></a>Qualitative Metrics
 
 Qualitative data is information about experiences that cannot be counted in numbers and is often paired with quantitative (numeric) data to show a more complete picture about a website’s use. 
 
