@@ -294,12 +294,13 @@ hr {
     }    
 }
 
-.post-content {
-    div:first-of-type {
-        display: none !important;
+// .post-content {
+//     div:first-of-type {
+//         display: inherit !important;
 
-        @include media-query($on-laptop) {
-            display: block !important;
-        }
-    }
-}
+//         @include media-query($on-laptop) {
+//             display: none !important;
+//             height: 0px !important;
+//         }
+//     }
+// }
