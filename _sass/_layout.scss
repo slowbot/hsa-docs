@@ -131,8 +131,8 @@
 }
 
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+    width:         calc(65% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
@@ -265,7 +265,8 @@ hr {
 
     li {
         list-style: none;
-        white-space: nowrap;
+        line-height: 1.5rem;
+        padding: .5rem 0;
     }
 }
 
@@ -274,6 +275,7 @@ hr {
     position: absolute;
     top: 0;
     left: 30px;  
+    width: 180px;
     
     @include media-query($on-laptop) {
         display: none;
