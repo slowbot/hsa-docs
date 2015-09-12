@@ -271,28 +271,30 @@ hr {
 }
 
 .menu-fixed {
-    display: block;
+    // display: block;
     position: absolute;
     top: 0;
     left: 30px;  
     width: 180px;
+    margin-bottom: 2rem;
     
     @include media-query($on-laptop) {
-        display: none;
+        // display: none;
         position: relative !important;
         top: 0;
         left: 0;  
+        // width: calc(100% - 48px);
     }
 }
 
-.menu-mobile {
-    display: none;
-    margin-bottom: 2rem;
+// .menu-mobile {
+//     display: none;
+//     margin-bottom: 2rem;
 
-    @include media-query($on-laptop) {
-        display: block;
-    }    
-}
+//     @include media-query($on-laptop) {
+//         display: block;
+//     }    
+// }
 
 // .post-content {
 //     div:first-of-type {

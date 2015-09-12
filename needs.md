@@ -4,19 +4,6 @@ title: Immediate Website Needs
 permalink: /needs/
 ---
 
-<ul class="menu menu-mobile">
-  <li><a href="#intro">Intro</a></li>
-  <li><a href="#user-centered">User-Centered</a></li>
-  <li><a href="#508-compliance">508-Compliance</a></li>
-  <li><a href="#responsive">Responsive</a></li>
-  <li><a href="#multilingual">Multilingual</a></li>
-  <li><a href="#improved-search">Improved Search</a></li>
-  <li><a href="#content-strategy">Content Strategy</a></li>
-  <li><a href="#website-transparency">Website Transparency</a></li>
-  <li><a href="#feedback-loop">Feedback Loop</a></li>
-  <li><a href="#shareability">Shareability</a></li>
-</ul>
-
 <ul id="mydiv" class="menu menu-fixed">
   <li><a href="#intro">Intro</a></li>
   <li><a href="#user-centered">User-Centered</a></li>
