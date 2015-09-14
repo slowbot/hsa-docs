@@ -33,7 +33,7 @@ The San Francisco Human Services Agency (HSA) is a lifeline for 23% of San Franc
 
 We’ve talked to HSA representatives from The Department of Aging and Adult Services (DAAS), The Office of Early Care and Education (OECE), and The Department of Human Services (DHS), including the Information Technology Department (IT), Family and Children's Services (FCS),  Internal Affairs, and Executive Leadership. We’ve engaged HSA clients and Community Based Organizations (CBOs). The overwhelming response to the current website has been:
 
-*"The website is not suiting the agency or client needs. What can we do to fix it?"*
+> "The website is not suiting the agency or client needs. What can we do to fix it?"
 
 We’ve heard honest criticism from each of the above stakeholders. "*The website is dated." “The content is all over the place.” “Nobody takes responsibility.” “It’s impossible to navigate.”* Our research dug deep within the agency, analyzing the website traffic data and holding community forums at the San Francisco Public Library and at a local CBO (Arriba Juntos). We conducted comparative analysis of public agencies in the city, county, state, and beyond. Our process uncovered ideas about a future HSA website that has the potential to be an exemplar amongst public services agencies.  These findings were the foundation for the document *HSA Recommendations.*
 
@@ -53,7 +53,7 @@ HSA clients are as diverse as the city itself. Website accessibility is essentia
 
 * * *
 
-## DHS & OECE Challenges
+## <a name="dhs-challenges"></a>DHS & OECE Challenges
 
 ### Outreach:
 
@@ -63,7 +63,7 @@ Engaging new clients that may need information or services provided by HSA.
 
 Missed opportunities in serving at-risk clients in need of services.
 
-#### In-Reach:
+### In-Reach:
 
 Current HSA clients are eligible for other services, but may not be aware of the options or if they qualify for them.
 
@@ -89,7 +89,7 @@ HSA staffing resources are limited and an informative website can eliminate unne
 
 * * *
 
-## DAAS Challenges also shared with DHS & OECE
+## <a name="daas-challenges"></a>DAAS Challenges also shared with DHS & OECE
 
 ### Not Meeting Government Mandates:
 
@@ -129,7 +129,7 @@ More details can be found in [HSA](https://docs.google.com/document/d/1X0QY7byN9
 
 ---
 
-### Client Needs
+## <a name="client-needs"></a>Client Needs
 
 At a community forum held at the San Francisco Public Library and Arriba Juntos, HSA clients shared what they were currently using sfhsa.org to do:
 
@@ -147,7 +147,7 @@ There were 6,713 pages viewed on sfhsa.org related to this topic. Similar pages 
 
 ---
 
-### HSA Staff Needs
+## <a name="staff-needs"></a>HSA Staff Needs
 
 At the monhly Agency Exective Staff meeting attended by Program Directors and Managers meeting, they shared what their staff was using sfhsa.org to do:
 
@@ -168,7 +168,7 @@ The technology HSA employees have available is difficult to use (eg: RedDot, VPN
 
 > "Reddot is very difficult to understand even though they (staff) go to training; mistakes are made." *-Executive Leadership*
 
-**Staff has ****Limited Tech Skills**
+**Staff has Limited Tech Skills**
 
 > "An issue is there are many Programs. The level of interest and awareness varies; skills of staff to use basic elements is very uneven."*-Executive Leadership*
 
@@ -212,7 +212,7 @@ Ideally, website content is managed by HSA individual Programs. A dedicated cont
 
 > "Related to (website) maintenance; staff gets trained, then they forget how to use it. We may need a new model."- *Executive Leadership*
 
-**Lack of**** Streamlined Processes for Tech Decisions**
+**Lack of Streamlined Processes for Tech Decisions**
 
 Programs hire outside vendors to create mini-sites. More often than not, IT only becomes aware of the sites when the vendor’s contract expire, forcing IT to maintain it.
 
