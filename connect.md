@@ -104,18 +104,18 @@ Streamlined communication channels on teams, between departments, and throughout
 
 > "There has to be loopback. If you are sending stuff to clients – you want some sense of ‘Are they opening your message?’ *-Program Leadership*
 
-> "If they put information all in one space, we could help them apply for ***_all_*** services, including services outside HSA. We are in a pivotal place.*"-Program Leadership*
+> "If they put information all in one space, we could help them apply for all services, including services outside HSA. We are in a pivotal place.*"-Program Leadership*
 
 ### What We Heard from Clients
 **Clients shared their experiences and impressions on the current Human Services Agency website:**
 
-* *"HSA sends so many messages when they need something from you but they are not responsive when you have questions or need information from them."*
+> "HSA sends so many messages when they need something from you but they are not responsive when you have questions or need information from them."
 
-* *"It’s a game. You leave a message, if they don’t want to see...most of the time it’s red tape and bureaucracy. (They) never call back."*
+> "It’s a game. You leave a message, if they don’t want to see...most of the time it’s red tape and bureaucracy. (They) never call back."
 
-* *"I waited to see them in person, but was made to feel rushed. I know they have a lot of others on their caseload, but I need time."*
+> "I waited to see them in person, but was made to feel rushed. I know they have a lot of others on their caseload, but I need time."
 
-* *"I need clarity on next steps from being a user of (HSA) services/how to get out of needing services."*
+> "I need clarity on next steps from being a user of (HSA) services/how to get out of needing services."
 
 ### Client Needs
 **Clients shared ideas on how HSA could better use the website, mobile phones, and other technologies to help them find information:**
@@ -148,7 +148,7 @@ HSA serves over 200,000 clients. Communications need to be conveyed in a clear a
 
 ---
 
-## <a name="hsa-cbos">HSA and CBOS
+## <a name="hsa-cbos"></a>HSA and CBOS
 
 Community Based Organizations (CBOs) like the Food Bank, Children’s Council, Good Samaritan, Institute of Aging, Meals On Wheels, Wu Yee Children’s Services, along with The San Francisco Department of Public Health, attended a public workshop to share their current expereinces with sfhsa.org and improvements for the future.
 
@@ -194,10 +194,12 @@ CBOs are an integral liaison between HSA and clients, helping with program infor
 **The SF Dept of the Environment** partners with community stakeholders to hold Twitter chats about various environmental topics.
 
 **Riverside**
-* Homelessness Case Management website**  **[https://www.clienttrack.net/riverside](https://www.clienttrack.net/riverside)
+
+* [Homelessness Case Management website](https://www.clienttrack.net/riverside)
   * PDF intake forms and grant setup forms accessible online to help CBO’s
 
 **Santa Clara**
+
 * Procure-to-Pay:
   * Automates the procurement function across the County. The **SAP/Ariba** Project is an externally-hosted system that is cost effective to implement and maintain and will provide the automation, streamlined processes and quick information access
 
@@ -207,7 +209,7 @@ British Columbia Government Citizen Engagement and Social Media [Citizen Engagem
 
 ---
 
-## <a name="hsa-city">HSA and the City
+## <a name="hsa-city"></a>HSA and the City
 
 ### Current Landscape
 The Public Information Office (PIO) is the official communications liaison with the city. The office is responsible for communications work, screening incoming media inquiries and works closely with Mayor's office on events that involve HSA in the media. There's an outreach team for public events like street fairs, with Program representatives to man the booths. Individual departments do small marketing things.
@@ -233,7 +235,7 @@ In order for HSA to have a distinct voice and messaging, communications must com
 
 ### What's Happening in Other Agencies
 
-#### Locally
+### Locally
 San Francisco social media practices in government vary depending upon the Agency. Most agencies that have a social media presence use it to broadcast information, but few take full advantage of social media’s capacity to engage with residents. A few notable exceptions are The City and County of San Francisco and SF Department of the Environment, who regularly post and respond to the questions and concerns of residents who follow their media streams. For example, the Chief information officer of The City and County of San Francisco, Miguel Gamiño Jr, personally monitors Twitter for comments about their #SFWiFi service and has had direct interactions with customers and used their feedback to instigate service improvements. The City and County of San Francisco is also establishing a social media team in their department that is focused on toolsets, standards, policies and best practices.
 
 There are other instances where agencies are great with some of their social media usage, but neglect other social media pages they create, giving the impression of lack of clear strategy or cohesive vision. For examples **Department of Children, Youth & Their Families (DCYF)** has a very active Twitter page with almost daily posts with over 800 followers. It’s important for any social media to be active otherwise it discourages audiences and lowers traffic. In contrast to their Twitter account, DCYF’s Youtube Channel is updated infrequently — a few times a year — and has low video views (one video was only seen 8 times). [Dcyf.org](http://www.dcyf.org/)’s social media has large presence on their main page with link to their monthly newsletter and weekly news feeds and several icon links to other social media platform they use.
@@ -254,32 +256,29 @@ Residents of San Francisco can send public requests for information and services
 
 To keep twitter communication private with 311, users can send a Direct Message. Direct messaging requires a short setup in order to take advantage of the service. Users add this ability by first following SF311 and tweeting "@SF311 Follow Back Request." SF311 replies to the twitter user to confirm set-up. HSA could apply this Direct Message approach to its social media strategy to address program specific client needs. This would require each program to have their own specific twitter channels.
 
-#### Nationally
+### Nationally
 Another good example social media usage is the **U.S. Department of Education’s** Twitter feed. It uses social media to answer questions on a monthly basis from students and parents with the hashtag #AskFAFSA. They directly engage residents' questions on Twitter about student aid forms and other college financing processes. It also captures all of the questions and answers on [Storify](https://storify.com/FAFSA), for those who may not have participated on Twitter, but want to read through the responses and educate themselves creating an archive and secondary source for the information requested and shared through Twitter.
 
-#### Further Reading
+### Further Reading
 **[A City's Guide to Social Media](https://web.archive.org/web/20130719033757/http://thesocialcity.org/)**
 
-#### Content Migration Roadmap
-[https://www.codeforamerica.org/our-work/initiatives/digitalfrontdoor/playbook/content/migration-roadmap.html](https://www.codeforamerica.org/our-work/initiatives/digitalfrontdoor/playbook/content/migration-roadmap.html)
+**[Content Migration Roadmap](https://www.codeforamerica.org/our-work/initiatives/digitalfrontdoor/playbook/content/migration-roadmap.html)**
 
-#### Federal SocialGov
-[http://www.digitalgov.gov/communities/social-media/](http://www.digitalgov.gov/communities/social-media/)
+**[Federal SocialGov](http://www.digitalgov.gov/communities/social-media/)**
+
 The Federal SocialGov Community unites almost 1000 digital managers and specialists at more than 160 agencies and offices in a collaborative program aimed at improving the creation, adoption and evaluation of digital engagement programs.
 
-**British Columbia Government Citizen Engagement and Social Media** [Citizen Engagement Handbook](http://www2.gov.bc.ca/assets/gov/government/open-government/ux-toolbox-better-web-for-citizens/citizen-engagement-social-media/citizen_engagement_planning_handbook.pdf)
+**British Columbia Government Citizen Engagement and Social Media**
+[Citizen Engagement Handbook](http://www2.gov.bc.ca/assets/gov/government/open-government/ux-toolbox-better-web-for-citizens/citizen-engagement-social-media/citizen_engagement_planning_handbook.pdf)
 
 **U.K. Government Digital Service, Social Media GCS Playbook**
 [Social Media Guidance for Civil Servants (October 2014)](https://www.gov.uk/government/publications/social-media-guidance-for-civil-servants/social-media-guidance-for-civil-servants)
 
-**How-To Guide to get started with Twitter**
-[https://gdsengagement.blog.gov.uk/playbook/](https://gdsengagement.blog.gov.uk/playbook/)
+**[How-To Guide to get started with Twitter](https://gdsengagement.blog.gov.uk/playbook/)**
 
-**NYC.GOV (Roadmap for the digital city)**
-[http://www.nyc.gov/html/media/media/PDF/90dayreport.pd](http://www.nyc.gov/html/media/media/PDF/90dayreport.pdf)[f](http://www.nyc.gov/html/media/media/PDF/90dayreport.pdf)
+**[NYC.GOV (Roadmap for the digital city)](http://www.nyc.gov/html/media/media/PDF/90dayreport.pdf)**
 
-**Australia Digital Transformation Office, Social media Design guide**
-[https://www.dto.gov.au/design-guides/guide/social-media](https://www.dto.gov.au/design-guides/guide/social-media)
+**[Australia Digital Transformation Office, Social media Design guide](https://www.dto.gov.au/design-guides/guide/social-media)**
 
 * * *
 
