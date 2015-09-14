@@ -26,7 +26,6 @@ Our three-month qualitative and quantitative research brought to light several o
 
 ---
 
-
 ## <a name="user-centered"></a>User-Centered
 
 Websites that work best take into account the preferences, knowledge and limitations of its users. They support an intuitive navigation and seamless completion of tasks in a quick and easy way. Conversation with SF HSA staff reveals acknowledgement of the need for a user-centered approach to serving clients. As one HSA Program Leader put it:
@@ -122,9 +121,9 @@ City and County mandates that all threshold languages should be met by governmen
 
 *  Enable website content to be easily read in different languages through a language translation plugin or by developing content for the City’s threshold languages.
 
-*  San Bernardino, Riverside and New York City are making their websites language accessible by allowing all content on a website to be switched to a user’s prefered language using Google translate.
+* [San Bernardino](http://www.sbcounty.gov/hr/), [Riverside](http://countyofriverside.us/Residents/HumanServices.aspx) and [New York City](http://www1.nyc.gov/site/hra/index.page) are making their websites language accessible by allowing all content on a website to be switched to a user’s prefered language using [Google translate](http://translate.google.com/manager/website/?hl=en).
 
-*  NYC’s AccessNYC website for lower-income residents features commonly spoken languages prominently at the top of the site.
+* NYC’s [AccessNYC](https://a069-access.nyc.gov/ACCESSNYC/application.do) website for lower-income residents features commonly spoken languages prominently at the top of the site.
 
 ---
 
@@ -188,7 +187,7 @@ We’ve heard from clients, CBOs and HSA staff how difficult it is to search for
 
 ---
 
-**Google Indexed over 130 Pages on Sfgov.org with an Error Message That They Cannot Be Found**
+**Google** [Indexed](http://www.google.com/insidesearch/howsearchworks/crawling-indexing.html) **over 130 Pages on Sfgov.org with an Error Message That They Cannot Be Found**
 (data from August 2014 - August 2015)
 
 #### Why it Matters:
@@ -200,7 +199,7 @@ We’ve heard from clients, CBOs and HSA staff how difficult it is to search for
 #### How to Fix it:
 * Create content management system protocol so when URLs are updated, a redirect is put in place to allow existing links to be updated
 
-* Fix existing URLs by adding 301 redirects for each
+* Fix existing URLs by adding [301 redirects](https://support.google.com/webmasters/answer/93633?hl=en) for each
 
 ---
 
@@ -263,11 +262,11 @@ We’ve heard from clients, CBOs and HSA staff how difficult it is to search for
     * Uses technology from (BAN) Benefits Enrollments Network
 
 
-* Link-SF
+* [Link-SF](http://github.com/zendesk/linksf)
     * Link-SF is San Francisco’s first mobile-optimized website that connects homeless and low-income residents with critical resources nearby.
 
 
-* SMC Connect
+* [SMC Connect](https://www.smc-connect.org/)
   * Tool to find community services in San Mateo County
   * Open source
 
@@ -314,11 +313,14 @@ Content strategy makes communication clear, expected and consistent. A strategic
 **Further Reading**
 
 * **Content Strategy Guidelines:**
-content creation  (source)
+content creation ([source](http://alistapart.com/article/thedisciplineofcontentstrategy))
+
 * **Content Style Guide from other Cities:**
-  * Hawaii Content Style Guide
-  * Philadelphia Content Style Guide
-  * Oakland Answers Content Style Guide
+  * [Hawaii Content Style Guide](https://docs.google.com/a/codeforamerica.org/file/d/0B9kmre1G2wdIQmhJVFdZYzRkQXc/edit)
+
+  * [Philadelphia Content Style Guide](https://alpha.phila.gov/content-style-guide/introduction/)
+
+  * [Oakland Answers Content Style Guide](https://docs.google.com/document/u/1/d/1c5Q4I0iM7uP7IgJoPwBC7U_cXv8cuply2ynvrIpWQ6g/pub)
 
 ---
 
@@ -344,7 +346,7 @@ For an organization like HSA, social media has many uses: to raise awareness abo
 
 * Incorporate social media widgets on sfhsa.org to promote HSA’s social media streams and encourage sharing website content.
 
-* Implement “Hoot Suite” or other tools that posts to multiple different social media accounts at once (e.x., YouTube, Twitter, FaceBook, etc.) rather than doing so on each account separately.
+* Implement "[Hoot Suite](http://signup.hootsuite.com/pro-ent-na-english-r7t/?mkwid=sZ2Uvh0ym_dc&pcrid=44033909734&pkw=hoot%20suite&pmt=e&cntry=na-usa&utm_source=google&utm_medium=cpc&utm_campaign=hootsuite_pro_google_search_usa_english_branded_alpha&gclid=CPKMu8O5l8cCFZFafgod-3MFHQ)" or other tools that posts to multiple different social media accounts at once (e.x., YouTube, Twitter, FaceBook, etc.) rather than doing so on each account separately.
 
 
 ---
@@ -378,11 +380,15 @@ An effective User Journey provides:
 Note: the user journey of a service may be distinct for different types of programs. For example: the process of reporting child abuse versus applying for Medi-Cal.
 
 * **Examples**
-  * Client Journey Map from SF Dept of Technology’s Homeless Navigation Center (HNC) workshop / full report pdf
-  * NYC infographic
-  * SF Business Portal
-  * Create a Business Plan Step by Step
-    * http://businessportal.sfgov.org/start/finance-your-business
+  * [Client Journey Map ](https://drive.google.com/open?id=0B0_JG-Zogp1oaVpqZTRiYmxOYXM)from SF Dept of Technology’s Homeless Navigation Center (HNC) workshop / full report [pdf](https://drive.google.com/open?id=0B0_JG-Zogp1oQVFaTEdXeTl5RzQ)
+
+      * [NYC infographic](http://welcometocup.org/Projects/MakingPolicyPublic/YourGuideToWelfareInNYC)
+
+      * [SF Business Portal](http://businessportal.sfgov.org/)
+
+  [Create a Business Plan Step by Step](http://businessportal.sfgov.org/start/create-a-plan)
+
+      * http://businessportal.sfgov.org/start/finance-your-business
 
 
 **Tutorials**
@@ -392,13 +398,15 @@ Step-by-step tutorials are another option in increasing client engagement and tr
 Video tutorials on the HSA website with staff at their desks talking about their roles and where they fit in the service process could make accessing and participating in an HSA or DAAS program easier and quicker.
 
 **Examples**
-  * Santa Clara Social Services Agency website
-    *  Video (here) showing how to apply for CalFresh (English & Vietnamese)
+  * [Santa Clara Social Services Agency website ](https://www.sccgov.org/sites/ssa/Pages/ssa.aspx)
 
+      * Video ([here](https://www.youtube.com/watch?v=I_eKiiohWM0&feature=youtu.be)) showing how to apply for CalFresh (English & Vietnamese)
 
-  * NYC 311
-    * Displays what to expect in the process, what information is needed, and what other programs you might be eligible for.
-    * Content written in plain language and an interface is clean and easy to navigate.
+  * [NYC 311](http://www1.nyc.gov/311/)
+
+      * Displays what to expect in the process, what information is needed, and what other programs you might be eligible for.
+
+      * Content written in plain language and an interface is clean and easy to navigate.
 
 ---
 
@@ -425,19 +433,19 @@ A specific need for feedback that HSA Executive Leadership expressed was to unde
 
 * **Multiple Communication Channels**
   * Introducing multiple channels for communication (phone, online chat, text) allows the public to interact with the HSA in ways that easiest for them with the communication tools they access.
-  * **Text messaging:** Within HSA, Family and Child Services (FCS) staff communicate with their clients through text and Promptly is being used in CalFresh and some other programs.
+  * **Text messaging:** Within HSA, Family and Child Services (FCS) staff communicate with their clients through text and [Promptly](http://www.promptly.io/) is being used in CalFresh and some other programs.
   * **Email:** A local example of an accessible client feedback loop is Santa Clara website’s "email us" option. It has a drop down to pick which department a user would like to communicate with and their “feedback” button for quick comments to the Agency.
-  * See Alameda County’s: Customers Automated Response System as a work-around for MyBenefits CalWIN to communicate with clients more effectively.
+  * See [Alameda County’s: ](https://alamedasocialservices.org/public/services/carsvru/carsweb.htm)[Customers Automated Response System](https://alamedasocialservices.org/public/services/carsvru/carsweb.htm) as a work-around for MyBenefits CalWIN to communicate with clients more effectively.
 
 
 * **Track Email Engagement**
-  * Email services like MailChimp allow one to know if others opened an email and what links were clicked within the email.
+  * Email services like [MailChimp](http://mailchimp.com/features/reports/) allow one to know if others opened an email and what links were clicked within the email.
   * This type of service would help HSA staff to track communication sent to clients and pinpoint what information clients may have used.
 
 
 * **Track Web Traffic**
   * Monitoring page views and search results on sfhsa.org on a regular basis will help HSA to know where people go and what they use on the website. This could help shape priorities on content development of the site and the necessary staffing to support it. This content could be used to show website users what others are searching for or using on the site, helping to prioritize the most relevant information to users.
-  * See Oakland’s, Digital Front Door Dashboard
+  * See Oakland’s, [Digital Front Door Dashboard](http://www.codeforamerica.org/our-work/initiatives/digitalfrontdoor/oakland-phase1-report/)
     * A concept being developed in Oakland for residents to see a live tracking system of search terms, top pages and current traffic on the site. It anonymously shows how many people are seeking the city’s help through online means and for what they are searching.
 
 ---
@@ -467,7 +475,7 @@ Sharing information enables HSA to foster dialogue within and outside the Agency
 
 * **Clients & Other Clients**
   * Peer-to-peer information sharing and online resources through email or texting links, share personal experiences of interacting with HSA and offer guidance on how to navigate or apply for services.
-    * Ventura County’s website allows users to email, facebook, or tweet content via a menu from their site.
+    * Ventura County’s [website](http://www.ventura.org/health-human-services) allows users to email, facebook, or tweet content via a menu from their site.
 
 
 ### Why it Matters
@@ -479,10 +487,9 @@ Sharing information and resources can help HSA staff do their jobs more effectiv
 * **Protocols/Tools to Reduce Siloing by Encouraging Collaboration.**
   * Internal HSA blog to encourage inter-departmental information sharing
   * Collaboration software:
-    * Slack
-    * FCS is piloting Yammer for internal communication within a small group.
-    * Sharepoint is available to certain HSA staff and could be used to organize and share information.
-
+      * [Slack](https://slack.com/)
+      * FCS is piloting [Yammer](https://www.yammer.com/) for internal communication within a small group.
+      * Sharepoint is available to certain HSA staff and could be used to organize and share information.
 
 * **Add Tools to the Website**
   * Email links
@@ -496,4 +503,4 @@ Sharing information and resources can help HSA staff do their jobs more effectiv
 
 
 * **Encourage Client Peer-to-Peer Information Sharing** and online resources through email or texting links
-  * Ventura County’s website has a drop-down menu for emailing facebooking, or tweeting content
+  * Ventura County’s [website](http://www.ventura.org/health-human-services) has a drop-down menu for emailing facebooking, or tweeting content
