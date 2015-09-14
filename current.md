@@ -9,13 +9,13 @@ permalink: /current/
   <li><a href="#our-process">Our Process</a></li>
   <li><a href="#current-landscape">Current Landscape</a></li>
     <ul>
-      <li><a href="#dhs-challenges">DHS & OECE challenges</li>
-      <li><a href="#daas-challenges">DAAS Challenges Shared with DHS & OECE</li>
+      <li><a href="#dhs-challenges">DHS & OECE challenges</a></li>
+      <li><a href="#daas-challenges">DAAS Challenges Shared with DHS & OECE</a></li>
     </ul>  
   <li><a href="#needs">Needs</a></li>
     <ul>
-      <li><a href="#client-needs">Client Needs</li>
-      <li><a href="#staff-needs">HSA Staff Needs</li>
+      <li><a href="#client-needs">Client Needs</a></li>
+      <li><a href="#staff-needs">HSA Staff Needs</a></li>
     </ul>
   <li><a href="#pain-points">Pain Points</a></li>
 </ul>
