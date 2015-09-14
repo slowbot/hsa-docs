@@ -94,9 +94,7 @@ Three of the four Human Service Agency websites we compared regionally (Santa Cl
 
 The current site is not optimized for mobile traffic, hurting both user experience, functionality and effective searches to find pertinent information for users.
 
-> “Our clients, even low income clients, have smart phones. We don’t use smartphone technology.”
-
-*—HSA Program Leadership*
+> “Our clients, even low income clients, have smart phones. We don’t use smartphone technology.” *—HSA Program Leadership*
 
 The website is not keeping pace with the way the public is connecting to the internet and how users want to engage with content. This frustration with the website is summed up by a Community Based Organizations (CBOs) who said that the website was “worthless on mobile. Literally unusable.”
 
